@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 public class PDFTicketPrinter {
 
     public void printTicketToPDF(String fromLocation, String toLocation, String departureTime, String arrivalTime, String timeDifference, double price, String filepath) {
-        Document document = new Document();
+        pdf document = new Document();
         try {
             PdfWriter.getInstance(document, new FileOutputStream(filepath));
             document.open();
