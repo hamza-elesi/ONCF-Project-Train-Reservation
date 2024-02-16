@@ -18,7 +18,10 @@ The project is organized into several packages, reflecting the separation of con
 - `vue_GUI`: Contains GUI components for traveler interactions, such as login and ticket booking.
 
 ## How to Run
-Make sure you have Java installed on your system. Clone the repository and navigate to the `src` directory. Compile the code using:
+Make sure you have Java installed on your system. Clone the repository and navigate to the `src` directory. Compile the code using: javac ONCF_APP/Main.java 
+
+- `NB`: Make sure to import the jar of mysql-connector-j-8.2.0.jar to the project.
+- `NB`: Make sure to import the jar of Itext.jar this for the PDF printer of the ticket.
 
 
 ## Features
