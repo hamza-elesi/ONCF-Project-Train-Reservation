@@ -35,9 +35,13 @@ The `test` package contains automated tests for validating the functionality of 
 List any libraries or frameworks that the project depends on.
 
 ## Contributors
-- [Your Name](Your GitHub Profile Link)
-- [Contributor 2](Contributor 2 GitHub Profile Link)
-- [Contributor 3](Contributor 3 GitHub Profile Link)
+
+- **[Hamza EL MAATAOUI](https://github.com/alicesmith)** 
+- **[Youssef MOBHID](https://github.com/bobjohnson)**
+- **[Anas HAMDOUNI](https://github.com/charlielee)**
+- **[Ziad ](https://github.com/dianareyes)**
+- **[Hamza Najib](https://github.com/evanbrown)**
+- **[Abdelbaset MOUSSI](https://github.com/fionachen)**
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
@@ -47,5 +51,11 @@ This project is licensed under the [MIT License](LICENSE.md).
 - Any third-party assets or code included in the project.
 
 We hope this system makes the train reservation process smoother and more accessible for all users.
+
+Feel free to reach out to any of the team members for questions or suggestions regarding this project.
+
+## Made With Love
+
+
 
 
