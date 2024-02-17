@@ -1,6 +1,7 @@
 # ONCF Project Train-Reservation application
 Un système complet de réservation de train basé sur Java, conçu à la fois pour les passagers et les administrateurs
-- **Sous la direction de EL MADANI EL ALAMI Yasser** 
+# Professeur Encadrant 
+- **Sous la direction de Mr. EL MADANI EL ALAMI Yasser** 
 # Train Reservation System
 
 ## Overview
