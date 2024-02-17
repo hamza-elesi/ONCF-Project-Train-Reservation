@@ -1,6 +1,6 @@
 # ONCF Project Train-Reservation application
 Un système complet de réservation de train basé sur Java, conçu à la fois pour les passagers et les administrateurs
-
+- **Sous la direction de : [ EL MADANI EL ALAMI Yasser]** 
 # Train Reservation System
 
 ## Overview
@@ -39,12 +39,12 @@ The `test` package contains automated tests for validating the functionality of 
 
 ## Contributors
 
-- **[Hamza EL MAATAOUI](https://github.com/alicesmith)** 
-- **[Youssef MOBHID](https://github.com/bobjohnson)**
+- **[EL MAATAOUI Hamza](https://github.com/alicesmith)** 
+- **[MOBHID Youssef](https://github.com/bobjohnson)**
 - **[Anas HAMDOUNI](https://github.com/charlielee)**
-- **[Ziad ](https://github.com/dianareyes)**
-- **[Hamza Najib](https://github.com/evanbrown)**
-- **[Abdelbaset MOUSSI](https://github.com/fionachen)**
+- **[ESSAIDI Ziad ](https://github.com/dianareyes)**
+- **[NAJIB Hamza](https://github.com/evanbrown)**
+- **[ELMOUSSI Abdelbaste](https://github.com/fionachen)**
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
